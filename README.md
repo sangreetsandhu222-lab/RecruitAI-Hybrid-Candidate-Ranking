@@ -1,5 +1,3 @@
-# RecruitAI-Hybrid-Candidate-Ranking
-AI-powered candidate ranking engine combining semantic search, feature engineering, and recruiter behavioral signals to intelligently shortlist top talent.
 # RecruitAI: Hybrid AI-Powered Candidate Ranking Engine
 
 ## Overview
